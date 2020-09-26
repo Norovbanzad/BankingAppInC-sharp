@@ -1,0 +1,17 @@
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.exe
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.deps.json
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.runtimeconfig.json
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.runtimeconfig.dev.json
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.dll
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\MySuperBank.pdb
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\BankLibrary.dll
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\bin\Release\netcoreapp3.1\BankLibrary.pdb
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csprojAssemblyReference.cache
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.AssemblyInfo.cs
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.csproj.CopyComplete
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.dll
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.pdb
+C:\Users\travis\Desktop\MySuperBank\MySuperBank\obj\Release\netcoreapp3.1\MySuperBank.genruntimeconfig.cache

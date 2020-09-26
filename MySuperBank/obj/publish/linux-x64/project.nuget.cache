@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxVSO6JAMDA10HybCPT0xuPCm1CCFjYpU+d8YuUUn5kgIlb2oPr83idCHwhSCLf8j0q46S1nD+WetBbRz09ybA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\travis\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\travis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\travis\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.8\\microsoft.netcore.app.runtime.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\travis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\travis\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.8\\microsoft.netcore.app.host.linux-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
